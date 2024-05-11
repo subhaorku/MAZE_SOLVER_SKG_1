@@ -15,5 +15,5 @@ This project implements a genetic algorithm to solve a maze represented as a 2D 
 - We use 'TOURNAMNET SELECTION' as a selection strategy where each chancee of each individual getting picked is 50%.
 - We define plot_path function to visulaize the maze, start point and the end point and path taken by the best-individual of a particular Generation.
 ### Running of Genetic Algorithm 
--We run the GA for 2000 generations and population size=50. We define best_individuals which will store the list of the best individual of a particular generation and run_ga function will also plot the path taken by the best individual of a particular generation represented by blue dots.
+- We run the GA for 2000 generations and population size=50. We define best_individuals which will store the list of the best individual of a particular generation and run_ga function will also plot the path taken by the best individual of a particular generation represented by blue dots.
   
